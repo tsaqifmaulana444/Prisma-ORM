@@ -1,0 +1,5 @@
+# access prisma gui
+npx prisma studio
+
+# perform prisma
+npx ts-node fileName.ts
